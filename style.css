@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kalam:wght@300;400;700&family=Pacifico&display=swap');
+html{
+    box-sizing: border-box;
+    font-family: "Kalam", cursive;
+    background-color: rgba(23, 200, 0, 0.334);
+}
+
+h1{
+    text-align: center;
+    font-family: pacifico, cursive;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+li,p{
+    font-size: 1.4em;
+    padding: 8px;
+    margin-left: 40px;
+}
